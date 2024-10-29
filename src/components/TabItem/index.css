@@ -20,7 +20,7 @@
   font-weight: 500;
 }
 @media (max-width: 576px) {
-  .decor{
+  .decor {
     font-size: 15px;
   }
 }

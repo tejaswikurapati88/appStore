@@ -54,14 +54,14 @@
   flex-wrap: wrap;
   width: 600px;
 }
-@media (max-width: 576px){
-  .ul-tabs{
+@media (max-width: 576px) {
+  .ul-tabs {
     width: 250px;
   }
-  .search-br-cont{
+  .search-br-cont {
     width: 220px;
   }
-  .search-bar{
+  .search-bar {
     width: 198px;
   }
 }
